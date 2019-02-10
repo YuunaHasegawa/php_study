@@ -15,3 +15,4 @@ echo $array_week ["Fei"].$str;
 echo "<br>";
 echo $array_week ["Sat"].$str;
 echo "<br>";
+?>
